@@ -1,0 +1,299 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+header {
+  background: silver;
+  height: 50 px;
+  width: 100%;
+  text-align: center;
+  line-height: 45px;
+  display: inline-block;
+}
+
+body {
+  background-color: #e0e0e0;
+  max-height: 1000px;
+}
+
+main {
+  max-height: 1000px;
+}
+
+.headd {
+  margin-right: 20px;
+  font-size: 15px;
+  color: #2b2b2b;
+  text-decoration: none;
+}
+
+#mainn:hover {
+  color: #1877f2;
+  font-size: 18px;
+}
+
+#news:hover {
+  color: #1877f2;
+  font-size: 18px;
+}
+
+#science:hover {
+  color: #1877f2;
+  font-size: 18px;
+}
+
+#education:hover {
+  color: #1877f2;
+  font-size: 18px;
+}
+
+footer {
+  background: black;
+  position: relative;
+  top: 600px;
+  height: 300px;
+  width: 100%;
+  color: white;
+  padding: 15px;
+}
+
+.icon img {
+  height: 30px;
+  width: 30px;
+  display: inline-block;
+  padding-right: 8px;
+  padding-top: 6px;
+  position: relative;
+  top: 30px;
+  left: 5px;
+}
+
+#networks {
+  padding-left: 6px;
+  position: relative;
+  top: 28px;
+  font-size: 16px;
+}
+
+.contact {
+  padding-top: 1px;
+  padding-bottom: 5px;
+  position: relative;
+  top: 20px;
+  left: 5px;
+}
+
+.message-icon img {
+  height: 30px;
+  width: 30px;
+  display: inline-block;
+  position: relative;
+  top: 10px;
+  left: 5px;
+}
+
+.write {
+  position: relative;
+  top: 20px;
+  left: 5px;
+}
+
+.card {
+  display: inline-block;
+  max-width: 1000px;
+  margin: 20px;
+  text-align: center;
+  background-color: #f9f9f9;
+  height: 450px;
+  width: 360px;
+  border-radius: 15px;
+  color: black;
+  font-size: 15px;
+  border: silver 1px solid;
+}
+
+.card-img {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  position: relative;
+  top: 20px;
+}
+
+.text {
+  padding: 20px;
+  position: relative;
+  top: 10px;
+}
+
+.caption {
+  position: relative;
+  top: 25px;
+}
+
+.card:hover {
+  border: #1877f2 2px solid;
+}
+
+#Svoboda {
+  position: relative;
+  left: 510px;
+  bottom: 460px;
+}
+
+#Pravda {
+  position: relative;
+  left: 970px;
+  bottom: 950px;
+}
+
+#BBC {
+  position: relative;
+  left: 40px;
+  top: 30px;
+}
+
+#Times {
+  position: relative;
+  bottom: 940px;
+  left: 40px;
+}
+
+#Deutsche {
+  position: relative;
+  left: 513px;
+  bottom: 1430px;
+}
+
+#Reuters {
+  position: relative;
+  left: 970px;
+  bottom: 1920px;
+}
+
+#CNN {
+  position: relative;
+  bottom: 1900px;
+  left: 40px;
+}
+
+#The-Guardian {
+  position: relative;
+  left: 513px;
+  bottom: 2390px;
+}
+
+#Fox-News {
+  position: relative;
+  left: 975px;
+  bottom: 2880px;
+}
+
+#SpringerLink {
+  position: relative;
+  left: 510px;
+  bottom: 460px;
+}
+
+#PubMed {
+  position: relative;
+  left: 40px;
+  top: 30px;
+}
+
+#The-Lancet {
+  position: relative;
+  left: 970px;
+  bottom: 950px;
+}
+
+#JSTOR {
+  position: relative;
+  bottom: 940px;
+  left: 40px;
+}
+
+#Scopus {
+  position: relative;
+  left: 513px;
+  bottom: 1430px;
+}
+
+#ResearchGate {
+  position: relative;
+  left: 970px;
+  bottom: 1920px;
+}
+
+#PLOS {
+  position: relative;
+  bottom: 1900px;
+  left: 40px;
+}
+
+#BioRxiv {
+  position: relative;
+  left: 513px;
+  bottom: 2390px;
+}
+
+#Zenodo {
+  position: relative;
+  left: 975px;
+  bottom: 2880px;
+}
+
+#Khan-Academy {
+  position: relative;
+  left: 40px;
+  top: 30px;
+}
+
+#Coursera {
+  position: relative;
+  left: 510px;
+  bottom: 460px;
+}
+
+#Mate-Academy {
+  position: relative;
+  left: 970px;
+  bottom: 950px;
+}
+
+#edX {
+  position: relative;
+  bottom: 940px;
+  left: 40px;
+}
+
+#Udemy {
+  position: relative;
+  left: 513px;
+  bottom: 1430px;
+}
+
+#Duolingo {
+  position: relative;
+  left: 970px;
+  bottom: 1920px;
+}
+
+#Skillshare {
+  position: relative;
+  bottom: 1900px;
+  left: 40px;
+}
+
+#MIT-OpenCourseWare {
+  position: relative;
+  left: 513px;
+  bottom: 2390px;
+}
+
+#FutureLearn {
+  position: relative;
+  left: 975px;
+  bottom: 2880px;
+}
